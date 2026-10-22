@@ -1,5 +1,4 @@
 # FPGA--UART-communication
-# FPGA UART Communication
 
 ### Overview
 This project implements a UART (Universal Asynchronous Receiver/Transmitter) communication system using VHDL on the Digilent Basys 3 FPGA development board.
